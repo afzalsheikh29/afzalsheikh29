@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=210&section=header&text=Afzal%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=210&section=header&text=AFZAL%20KHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
-<h3>Cloud & DevOps Engineer</h3>
+<h3>DevOps Engineer</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+Engineering;CI%2FCD+Automation+and+DevOps;AWS+Certified+Solutions+Architect;Containerization+and+Orchestration;Infrastructure+as+Code" />
 
