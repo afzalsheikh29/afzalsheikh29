@@ -38,3 +38,73 @@ const afzalKhan = {
   ],
   philosophy: "Automate everything. Deploy confidently. Scale reliably."
 };
+Technology Stack
+☁️ Cloud Platforms
+
+
+
+
+
+
+⚙️ CI/CD & Automation
+
+
+
+
+
+
+🐳 Containers & Orchestration
+
+
+
+
+
+
+🧱 Infrastructure as Code
+
+
+
+
+
+
+🧠 Backend & Automation
+
+
+
+
+
+
+
+
+🗄️ Databases & Messaging
+
+
+
+
+
+
+🚀 Featured Projects
+Project	Description	Tech Stack
+AWS CI/CD Pipeline	Automated build, test & deploy workflows	AWS, Jenkins, Docker
+GitHub Actions CI/CD	Dockerized Node.js app with zero-touch deployments	GitHub Actions, Docker
+Multi-Env Deployments	Dev / UAT / Prod pipelines with approvals	AWS EC2, GitHub Actions
+Serverless E-Commerce	Event-driven microservices at scale	Lambda, DynamoDB, Kinesis
+AI-Powered CRM Platform	Secure, self-hosted AI automation	Docker, n8n, PostgreSQL
+🎓 Certification
+
+AWS Certified Solutions Architect – Associate
+Designing secure, scalable, and cost-optimized AWS architectures.
+
+📊 GitHub Analytics
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=afzalsheikh29&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalsheikh29&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=afzalsheikh29&custom_title=Contribution%20Activity&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true&area=true" width="95%" /> </div>
+📫 Let’s Connect
+
+📍 India
+
+💼 Open to Cloud & DevOps roles
+
+🌐 Portfolio: https://erfuapchezo6o.ok.kimi.link
+
+🔗 LinkedIn: https://linkedin.com/in/afzalsheikh29
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27&height=120&section=footer" /> ```
