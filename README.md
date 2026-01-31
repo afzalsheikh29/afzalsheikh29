@@ -8,8 +8,7 @@
 
 &lt;br/&gt;
 
-&lt;!-- Smaller GIF size --&gt;
-&lt;img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" /&gt;
+&lt;img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="auto" alt="Coding GIF"&gt;
 
 &lt;br/&gt;&lt;br/&gt;
 
@@ -84,6 +83,18 @@ I specialize in **CI/CD pipelines**, **container orchestration**, **infrastructu
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+
+&lt;div align="center"&gt;
+
+&lt;img width="48%" src="https://github-readme-stats.vercel.app/api?username=afzalsheikh29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" /&gt;
+
+&lt;img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=afzalsheikh29&theme=tokyonight&hide_border=true&background=0d1117" /&gt;
+
+&lt;/div&gt;
 
 ---
 
