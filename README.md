@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://erfuapchezo6o.ok.kimi.link">
+<a href="https://www.aicloudmania.com">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&labelColor=0d1117">
 </a>
 <a href="https://linkedin.com/in/afzalsheikh29">
