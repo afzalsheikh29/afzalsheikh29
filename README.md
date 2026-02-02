@@ -101,7 +101,7 @@ My work focuses on CI/CD pipeline automation, containerized deployments, infrast
 
 <a href="https://linkedin.com/in/afzalsheikh29">LinkedIn</a> •
 <a href="https://github.com/afzalsheikh29">GitHub</a> •
-<a href="https://erfuapchezo6o.ok.kimi.link">Portfolio</a>
+<a href="https://www.aicloudmania.com">Portfolio</a>
 
 </div>
 
